@@ -1,0 +1,1 @@
+[[2.8, ["Fiora", 1], ["Garen", 1], ["Shen", 2], ["Kayle", 5], ["Yasuo", 5]], [2.8, ["Mordekaiser", 1], ["Lulu", 2], ["Poppy", 3], ["Veigar", 3], ["Karthus", 5]]]
